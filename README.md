@@ -1,1 +1,2 @@
-# furryTrain
+# synchronousBallMovement
+Ball moving synchronously
